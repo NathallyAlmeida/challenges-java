@@ -8,7 +8,7 @@
  *
  * @author nathy
  */
-public class Main {
+public class AutomatedCMachine {
 
     /**
      * @param args the command line arguments
